@@ -1,7 +1,7 @@
 [b]Add Favicon Support[/b]
 
-Version: 1.0 Date: 2008-08-08
-Compatibility: SMF 1.1.5; 2.0 Beta 3.1 or later
+Version: 1.101 Date: 2009-12-09
+Compatibility: SMF 1.1.5; 2.0 Beta 3.1 or up to at least 2.0 RC2
 
 This modification adds the header tags necessary to enable display of a favicon.ico icon on your site. The favicon.ico is a small 16x16 pixel image that appears in the URL bar in some browsers and is shown in the bookmarks in most browsers. Your icon must be named favicon.ico and should be placed in your website root directory.
 
@@ -35,6 +35,6 @@ You may get support or submit questions and comments in the modification's [url=
 
 [b]Donations[/b]
 
-[table][tr][td][url=https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=1400104][img]https://www.paypal.com/en_US/i/btn/btn_donateCC_LG.gif[/img][/url][/td][td]      [/td][td]If you like my modification packages, please donate to support their continued development. Any amount will be greatly appreciated. Thank you![/td][/tr][/table]
+[table][tr][td][url=https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=1400104][img]https://www.paypal.com/en_US/i/btn/btn_donateCC_LG.gif[/img][/url][/td][td]      [/td][td]Over 370,000 downloads of my mod packages and so far I've received about a dozen donations. Thanks guys.[/td][/tr][/table]
 
-[size=1]Copyright (c) 2008 by Deprecated (at) Earthlink (dot) net. All rights reserved. Redistribution prohibited except at SimpleMachines.org[/size]
+[size=1]Copyright (c) 2008-2009 by Deprecated (at) Earthlink (dot) net. All rights reserved. Redistribution prohibited except at SimpleMachines.org[/size]
