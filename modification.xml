@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<!DOCTYPE modification SYSTEM "http://www.simplemachines.org/xml/modification">
+<!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+	Modification file for Add Favicon.ico Supoort
+
+	ATTENTION: If you are trying to install this manually, you should try
+	the package manager.  If it will not work for you, please take a look
+	at the following for information on this format:
+		http://mods.simplemachines.org/docs/manual-install.php
+
+ 	Copyright (c) 2008 by Deprecated (at) Earthlink (dot) net. All rights reserved.
+	Redistribution prohibited except at SimpleMachines.org
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+
+<modification xmlns="http://www.simplemachines.org/xml/modification" xmlns:smf="http://www.simplemachines.org/">
+
+	<id>Deprecated:Add_Favicon</id>
+
+	<version>1.0</version>
+
+	<file name="$themedir/index.template.php">
+		<operation>
+			<search position="after"><![CDATA[
+</head>]]></search>
+			<add><![CDATA[
+	<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+	<link rel="icon" href="/favicon.ico" type="image/x-icon" />]]></add>
+		</operation>
+	</file>
+
+</modification>
