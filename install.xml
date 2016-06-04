@@ -16,8 +16,10 @@
 			<search position="after"><![CDATA[
 </head>]]></search>
 			<add><![CDATA[
+	<!-- MOD: Add Favicon -->
 	<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
 	<link rel="icon" href="/favicon.ico" type="image/x-icon" />
+	<!-- END MOD: Add Favicon -->
 ]]></add>
 		</operation>
 	</file>
@@ -27,8 +29,10 @@
 			<search position="after"><![CDATA[
 </head>]]></search>
 			<add><![CDATA[
+	<!-- MOD: Add Favicon -->
 	<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
 	<link rel="icon" href="/favicon.ico" type="image/x-icon" />
+	<!-- END MOD: Add Favicon -->
 ]]></add>
 		</operation>
 	</file>
